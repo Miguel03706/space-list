@@ -1,0 +1,13 @@
+.dashboard {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.column-kanban {
+  background: #e2e4e6;
+  padding: 10px;
+  width: 250px;
+  min-height: 500px;
+  border-radius: 8px;
+}

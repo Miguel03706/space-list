@@ -1,0 +1,14 @@
+.modal-closer {
+  display: flex;
+  justify-content: flex-end;
+}
+.modal-header {
+  display: flex;
+  justify-content: center;
+  color: #000;
+  font-weight: bold;
+}
+.modal-body {
+  display: flex;
+  color: #000;
+}
