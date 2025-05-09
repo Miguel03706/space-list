@@ -22,7 +22,7 @@ function criarEspacamento(): void {
   const container = document.getElementsByClassName('two _aigs x1n2onr6 x13vifvy') as HTMLCollectionOf<HTMLElement>;
 
   if (container.length > 0) {
-    container[0].style.marginTop = '20px';
+    container[0].style.marginTop = '35px';
     console.log('Elemento encontrado');
   } else {
     console.log('Elemento não encontrado');
